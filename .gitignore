@@ -1,4 +1,1 @@
-*.temp
-*.log
-
-node_modules/
+build/
